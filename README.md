@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alee-00, Amanda Lee
-- 👀 I’m interested in front end development, information technology, singing, dancing, and learning different things
+- 👀 I’m interested in front end development, information technology, singing, video games, and learning different things.
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me - email: lee.4manda@gmail.com
 
